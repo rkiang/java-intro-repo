@@ -5,7 +5,8 @@ public class Main {
         System.out.println("Hello World");
 
         int thisValue = 5;
-        do { // do-while loops, runs/executes statements until true, and executes the next one after the condition is true
+        do { /* do-while loops, runs/executes statements until true,
+        and executes the next one after the condition is true */
             System.out.print(thisValue);
             System.out.print(" * 2 = ");
             thisValue *= 2;
